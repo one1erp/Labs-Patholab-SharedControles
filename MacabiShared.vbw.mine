@@ -1,0 +1,13 @@
+FindPhysicianCtrl = 0, 0, 0, 0, C, 25, 25, 805, 497, C
+FindPatientCtrl = 0, 0, 0, 0, C, 50, 50, 830, 522, C
+FrmFindPatient = 0, 0, 0, 0, C, 75, 75, 855, 547, C
+FrmFindPhysician = 0, 0, 0, 0, C, 100, 100, 880, 572, C
+FrmList = 0, 0, 0, 0, C, 125, 125, 905, 597, C
+MdlMacabiShared = 0, 0, 0, 0, C
+FindPatientDlg = 52, 52, 735, 420, , 150, 150, 930, 622, C
+FindPhysicianDlg = 0, 0, 0, 0, C, 175, 175, 955, 647, C
+FreeTextTemplateCtrl = 78, 78, 761, 446, , 200, 200, 980, 672, C
+StatusViewerCtrl = 0, 0, 0, 0, C, 0, 0, 780, 472, C
+FrmConfigDoctor = 0, 0, 0, 0, C, 25, 25, 805, 497, C
+FrmCheckConfigPatientGeneral = 0, 0, 0, 0, C, 50, 50, 830, 522, C
+DockListCtrl = 0, 0, 0, 0, C, 75, 75, 855, 547, C
